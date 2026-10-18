@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信本地聊天归档"
+  short_description: "读取 Mac 微信本地记录，解析消息与媒体并导出离线自包含 HTML"
+  default_prompt: "使用 $wechat-local-archive 读取我指定的微信会话，核对解析完整性并导出自包含 HTML。"

@@ -1,0 +1,4 @@
+cryptography>=45
+Pillow>=11
+pilk==0.2.4
+zstandard>=0.23

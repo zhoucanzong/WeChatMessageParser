@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+research/private/
+research/sqlcipher-build/
+exports/
+research/
+WeFlow/
+alpha-releases/
+dist/
+.DS_Store
+.wechat-archive/
+*.db
+*.db-wal
+*.db-shm
+keys*.json
